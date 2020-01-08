@@ -51,6 +51,7 @@ System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
 					break;
 				}
 			}
+			System.out.println("This code is to verify the git version");
 		}
 	}
 
